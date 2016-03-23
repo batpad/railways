@@ -1,0 +1,5 @@
+Django==1.9.4
+geopy==1.11.0
+ipython==4.1.2
+ipython-genutils==0.1.0
+psycopg2==2.6.1
